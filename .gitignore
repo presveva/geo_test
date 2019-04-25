@@ -1,0 +1,7 @@
+venv
+*.pyc
+*.zip
+*.csv
+dump
+*node_modules*
+.vscode

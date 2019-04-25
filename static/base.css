@@ -1,0 +1,35 @@
+html {
+  overflow: -moz-scrollbars-vertical;
+  overflow-y: scroll;
+}
+
+/* body {
+  padding-top: 60px;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+} */
+
+h4,
+body,
+input,
+button,
+select,
+code,
+pre,
+textarea {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+
+#map {
+  height: 100%;
+}
+
+html,
+body {
+  padding-top: 60px;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
